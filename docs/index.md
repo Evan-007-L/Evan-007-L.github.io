@@ -1,6 +1,3 @@
----
-sort: 1
----
-#   中文文档
-
-
+#   主页面
+## Welcome to GitHub Pages
+### 你好
