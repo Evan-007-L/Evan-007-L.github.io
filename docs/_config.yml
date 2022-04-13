@@ -1,8 +1,8 @@
 title: AIWise
 lang: en
-description: test
+description: Guangzhou AIWise Artificial Intelligence Technology Co., LTD
 
-remote_theme: Guangzhou AIWise Artificial Intelligence Technology Co., LTD
+remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
