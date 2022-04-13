@@ -1,8 +1,8 @@
-title: doc website test
+title: AIWise
 lang: en
 description: test
 
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: Guangzhou AIWise Artificial Intelligence Technology Co., LTD
 
 readme_index:
   with_frontmatter: true
