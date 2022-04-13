@@ -1,6 +1,4 @@
-#  WIRUSH
-
-<img src="../img/AIWISE.png" width="300" height="120"/>
+#  WIRUSH  <img src="../img/AIWISE.png" width="100" height="100"/>
 
 
 ## Welcome to our Pages  
